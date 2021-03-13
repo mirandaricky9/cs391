@@ -5,7 +5,7 @@ Total Hours
 | Date & Time           |   Notes/Task completed |
 | --------------------- | ---------------------- |
 | Sample date           | Sample text            |
-## Week 6 Total Hours: 4.27
+## Week 6 Total Hours: 5.27
 | Date & Time           |   Notes/Task completed |
 | --------------------- | ---------------------- |
 | 03/13/2021 Start: 12:20 CT END: 13:20 | Chapters 3 and 4 of Whirlwind of Python. (1 hr) |
