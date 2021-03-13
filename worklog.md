@@ -8,6 +8,7 @@ Total Hours
 ## Week 6 Total Hours: 2.97
 | Date & Time           |   Notes/Task completed |
 | --------------------- | ---------------------- |
+| 03/11/2021 Start 12:10 CT END: 14:30 | In class, discussed how to properly set up the environments and started with a simple Monte Carlo baseline agent. Afterwards, talked with Professor Neller on next steps and suggested to look at the discussion section of Hungry Geese. |
 | 03/09/2021 Start 13:30 CT END: 14:10 | Attempted to install kaggle-environments but came across an error regarding the module 'gfootball'. Tried looking for resources on how to install it but came across no working solution (0.67 hrs)|
 | 03/09/2021 Start 12:10 CT END: 13:28 | In class, talked about Hungry Geese and how to come up with a measure for the game state, also began setting up the environment to test agents that were given in the Code section of Kaggle. (1.3 hrs)|
 | 03/07/2021 Start: 20:00 CT End: 20:56| Scanned shared resource, read chapters 0, 1, and 2 from Whirlwind of Python through Jupyter Notebook (1 hr) |
