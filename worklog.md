@@ -5,6 +5,10 @@ Total Hours
 | Date & Time           |   Notes/Task completed |
 | --------------------- | ---------------------- |
 | Sample date           | Sample text            |
+## Week 7 Total Hours: 
+| Date & Time           |   Notes/Task completed |
+| --------------------- | ---------------------- |
+| Sample date           | Sample text            |
 ## Week 6 Total Hours: 5.27
 | Date & Time           |   Notes/Task completed |
 | --------------------- | ---------------------- |
