@@ -8,7 +8,7 @@ Total Hours
 ## Week 7 Total Hours: 
 | Date & Time           |   Notes/Task completed |
 | --------------------- | ---------------------- |
-| Sample date           | Sample text            |
+| 03/16/2021 Start: 10:10 PT END: 11:30 PT| Exam explanation given by Professor Neller and a quick guide on how to set up a jupyter environment in VS Code given by myself.|
 ## Week 6 Total Hours: 5.27
 | Date & Time           |   Notes/Task completed |
 | --------------------- | ---------------------- |
