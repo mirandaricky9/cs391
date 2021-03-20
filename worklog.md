@@ -5,9 +5,11 @@ Total Hours
 | Date & Time           |   Notes/Task completed |
 | --------------------- | ---------------------- |
 | Sample date           | Sample text            |
-## Week 7 Total Hours: 1.3 hrs
+## Week 7 Total Hours: 5.6 hrs
 | Date & Time           |   Notes/Task completed |
 | --------------------- | ---------------------- |
+| 03/18/2021 Start: 13:00 PT END: 16:00 PT | Worked on understanding how to implement a similar set of code for logistic regression by looking at homework 4 from DS 256 as well as outside resources. Made two submissions to Kaggle, one with a score of 11 because I made the mistake of not calculating probability but I eventually figured that out, however was only able to bring my score down to about 1. (3 hrs) |
+| 03/18/2021 Start: 10:10 PT END: 11:30 PT | A walkthrough of linear regression was given by Professor Neller, reviewed from outside sources how to calculate logistic regression on my own. (1.3 hrs) |
 | 03/16/2021 Start: 10:10 PT END: 11:30 PT| Exam explanation given by Professor Neller and a quick guide on how to set up a jupyter environment in VS Code given by myself. (1.3 hrs)|
 ## Week 6 Total Hours: 5.27
 | Date & Time           |   Notes/Task completed |
