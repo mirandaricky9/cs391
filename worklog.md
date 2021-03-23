@@ -8,7 +8,7 @@ Total Hours
 ## Week 8 Total Hours:
 | Date & Time           |   Notes/Task completed |
 | --------------------- | ---------------------- |
-| 03/22/2021  Start: 18:00 PT End: 20:00 |    |
+| 03/22/2021  Start: 18:00 PT End: 20:00 | Whirlwind of Python chapters 5 through 7 as well as worked on cs391 midterm regarding the kaggle competition. Looked into more detail about logistic regression.   |
 ## Week 7 Total Hours: 5.6 hrs
 | Date & Time           |   Notes/Task completed |
 | --------------------- | ---------------------- |
