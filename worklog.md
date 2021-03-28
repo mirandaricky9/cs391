@@ -5,6 +5,10 @@ Total Hours
 | Date & Time           |   Notes/Task completed |
 | --------------------- | ---------------------- |
 | Sample date           | Sample text            |
+## Week 9 Total Hours: 
+| Date & Time           |   Notes/Task completed |
+| --------------------- | ---------------------- |
+| Sample date           | Sample text            |
 ## Week 8 Total Hours: 9 hrs
 | Date & Time           |   Notes/Task completed |
 | --------------------- | ---------------------- |
