@@ -8,6 +8,8 @@ Total Hours
 ## Week 8 Total Hours: 5 hrs
 | Date & Time           |   Notes/Task completed |
 | --------------------- | ---------------------- |
+| 03/27/2021 Start: 09:30 PT End: 11:30 PT | Worked through the rest of the jupyter notebook that I was going over with Jeffrey on Wednesday to better understand each of the functions for the simple monte carlo baseline. (2 hr) |
+| 03/26/2021 Start: 13:00 PT End: 15:00 PT | Worked through chapters 8-13 of Whirlwind of Python. (2 hrs) |
 | 03/24/2021 Start: 16:00 PT End: 19:00 PT | Worked with Jefferey. We went over the data science resources notebook, specifically Homework 4 and then looked at the Monte Carlo Baseline submission and read line by line to try to understand exactly how the game works. This included having to look up the github respository for kaggle_environments, understanding what Observation and Configuration classes meant. We were only able to get through half of submission. (3 hrs)   | 
 | 03/22/2021  Start: 18:00 PT End: 20:00 | Whirlwind of Python chapters 5 through 7 as well as worked on cs391 midterm regarding the kaggle competition. Looked into more detail about logistic regression. (2 hrs)   |
 ## Week 7 Total Hours: 5.6 hrs
