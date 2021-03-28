@@ -5,7 +5,7 @@ Total Hours
 | Date & Time           |   Notes/Task completed |
 | --------------------- | ---------------------- |
 | Sample date           | Sample text            |
-## Week 8 Total Hours: 5 hrs
+## Week 8 Total Hours: 9 hrs
 | Date & Time           |   Notes/Task completed |
 | --------------------- | ---------------------- |
 | 03/27/2021 Start: 09:30 PT End: 11:30 PT | Worked through the rest of the jupyter notebook that I was going over with Jeffrey on Wednesday to better understand each of the functions for the simple monte carlo baseline. (2 hr) |
